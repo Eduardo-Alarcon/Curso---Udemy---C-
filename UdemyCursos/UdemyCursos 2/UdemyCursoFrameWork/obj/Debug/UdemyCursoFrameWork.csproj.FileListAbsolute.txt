@@ -1,0 +1,9 @@
+C:\Users\Eduardo\Documents\UdemyCursos\UdemyCursos 2\UdemyCursoFrameWork\bin\Debug\UdemyCursoFrameWork.exe.config
+C:\Users\Eduardo\Documents\UdemyCursos\UdemyCursos 2\UdemyCursoFrameWork\bin\Debug\UdemyCursoFrameWork.exe
+C:\Users\Eduardo\Documents\UdemyCursos\UdemyCursos 2\UdemyCursoFrameWork\bin\Debug\UdemyCursoFrameWork.pdb
+C:\Users\Eduardo\Documents\UdemyCursos\UdemyCursos 2\UdemyCursoFrameWork\obj\Debug\UdemyCursoFrameWork.csproj.AssemblyReference.cache
+C:\Users\Eduardo\Documents\UdemyCursos\UdemyCursos 2\UdemyCursoFrameWork\obj\Debug\UdemyCursoFrameWork.Properties.Resources.resources
+C:\Users\Eduardo\Documents\UdemyCursos\UdemyCursos 2\UdemyCursoFrameWork\obj\Debug\UdemyCursoFrameWork.csproj.GenerateResource.cache
+C:\Users\Eduardo\Documents\UdemyCursos\UdemyCursos 2\UdemyCursoFrameWork\obj\Debug\UdemyCursoFrameWork.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Documents\UdemyCursos\UdemyCursos 2\UdemyCursoFrameWork\obj\Debug\UdemyCursoFrameWork.exe
+C:\Users\Eduardo\Documents\UdemyCursos\UdemyCursos 2\UdemyCursoFrameWork\obj\Debug\UdemyCursoFrameWork.pdb

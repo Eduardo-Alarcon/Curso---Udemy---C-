@@ -1,0 +1,7 @@
+C:\Users\Eduardo\Documents\UdemyCursos\UdemyCursos 2\Metodo Construtor\bin\Debug\Metodo Construtor.exe.config
+C:\Users\Eduardo\Documents\UdemyCursos\UdemyCursos 2\Metodo Construtor\bin\Debug\Metodo Construtor.exe
+C:\Users\Eduardo\Documents\UdemyCursos\UdemyCursos 2\Metodo Construtor\bin\Debug\Metodo Construtor.pdb
+C:\Users\Eduardo\Documents\UdemyCursos\UdemyCursos 2\Metodo Construtor\obj\Debug\Metodo Construtor.csproj.AssemblyReference.cache
+C:\Users\Eduardo\Documents\UdemyCursos\UdemyCursos 2\Metodo Construtor\obj\Debug\Metodo Construtor.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Documents\UdemyCursos\UdemyCursos 2\Metodo Construtor\obj\Debug\Metodo Construtor.exe
+C:\Users\Eduardo\Documents\UdemyCursos\UdemyCursos 2\Metodo Construtor\obj\Debug\Metodo Construtor.pdb

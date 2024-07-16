@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eduardo\\source\\repos\\Recursividade\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6D4734-E483-4FA1-B7C7-0E563D2FA311}|Recursividade\\Recursividade.csproj|c:\\users\\eduardo\\source\\repos\\recursividade\\recursividade\\recursivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC6D4734-E483-4FA1-B7C7-0E563D2FA311}|Recursividade\\Recursividade.csproj|solutionrelative:recursividade\\recursivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6D4734-E483-4FA1-B7C7-0E563D2FA311}|Recursividade\\Recursividade.csproj|c:\\users\\eduardo\\source\\repos\\recursividade\\recursividade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC6D4734-E483-4FA1-B7C7-0E563D2FA311}|Recursividade\\Recursividade.csproj|solutionrelative:recursividade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\source\\repos\\Recursividade\\Recursividade\\Program.cs",
+              "RelativeDocumentMoniker": "Recursividade\\Program.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\source\\repos\\Recursividade\\Recursividade\\Program.cs",
+              "RelativeToolTip": "Recursividade\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAwwA8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T19:23:38.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Recursivo.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\source\\repos\\Recursividade\\Recursividade\\Recursivo.cs",
+              "RelativeDocumentMoniker": "Recursividade\\Recursivo.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\source\\repos\\Recursividade\\Recursividade\\Recursivo.cs",
+              "RelativeToolTip": "Recursividade\\Recursivo.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAowBYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T19:23:37.553Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eduardo\\source\\repos\\MediaGeralPOO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{994BF128-5B0D-49BD-8004-51BEDFF492C9}|MediaGeralPOO\\MediaGeralPOO.csproj|c:\\users\\eduardo\\source\\repos\\mediageralpoo\\mediageralpoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{994BF128-5B0D-49BD-8004-51BEDFF492C9}|MediaGeralPOO\\MediaGeralPOO.csproj|solutionrelative:mediageralpoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{994BF128-5B0D-49BD-8004-51BEDFF492C9}|MediaGeralPOO\\MediaGeralPOO.csproj|c:\\users\\eduardo\\source\\repos\\mediageralpoo\\mediageralpoo\\alunos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{994BF128-5B0D-49BD-8004-51BEDFF492C9}|MediaGeralPOO\\MediaGeralPOO.csproj|solutionrelative:mediageralpoo\\alunos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Alunos.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\source\\repos\\MediaGeralPOO\\MediaGeralPOO\\Alunos.cs",
+              "RelativeDocumentMoniker": "MediaGeralPOO\\Alunos.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\source\\repos\\MediaGeralPOO\\MediaGeralPOO\\Alunos.cs",
+              "RelativeToolTip": "MediaGeralPOO\\Alunos.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T17:39:20.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\source\\repos\\MediaGeralPOO\\MediaGeralPOO\\Program.cs",
+              "RelativeDocumentMoniker": "MediaGeralPOO\\Program.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\source\\repos\\MediaGeralPOO\\MediaGeralPOO\\Program.cs",
+              "RelativeToolTip": "MediaGeralPOO\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T17:38:52.648Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

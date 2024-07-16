@@ -1,0 +1,2 @@
+C:\Users\Eduardo\Documents\UdemyCursos\UdemyCursos 2\Exercícios\obj\Debug\Exercícios.csproj.AssemblyReference.cache
+C:\Users\Eduardo\Documents\UdemyCursos\UdemyCursos 2\Exercícios\obj\Debug\Exercícios.csproj.CoreCompileInputs.cache

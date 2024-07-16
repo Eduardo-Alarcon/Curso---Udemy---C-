@@ -1,0 +1,7 @@
+C:\Users\Eduardo\source\repos\POO\This\obj\Debug\This.csproj.AssemblyReference.cache
+C:\Users\Eduardo\source\repos\POO\This\obj\Debug\This.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\POO\This\bin\Debug\This.exe.config
+C:\Users\Eduardo\source\repos\POO\This\bin\Debug\This.exe
+C:\Users\Eduardo\source\repos\POO\This\bin\Debug\This.pdb
+C:\Users\Eduardo\source\repos\POO\This\obj\Debug\This.exe
+C:\Users\Eduardo\source\repos\POO\This\obj\Debug\This.pdb

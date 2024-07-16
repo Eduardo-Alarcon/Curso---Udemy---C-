@@ -1,0 +1,7 @@
+C:\Users\Eduardo\Documents\UdemyCursos\UdemyCursos 2\Encapsular\bin\Debug\Encapsular.exe.config
+C:\Users\Eduardo\Documents\UdemyCursos\UdemyCursos 2\Encapsular\bin\Debug\Encapsular.exe
+C:\Users\Eduardo\Documents\UdemyCursos\UdemyCursos 2\Encapsular\bin\Debug\Encapsular.pdb
+C:\Users\Eduardo\Documents\UdemyCursos\UdemyCursos 2\Encapsular\obj\Debug\Encapsular.csproj.AssemblyReference.cache
+C:\Users\Eduardo\Documents\UdemyCursos\UdemyCursos 2\Encapsular\obj\Debug\Encapsular.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Documents\UdemyCursos\UdemyCursos 2\Encapsular\obj\Debug\Encapsular.exe
+C:\Users\Eduardo\Documents\UdemyCursos\UdemyCursos 2\Encapsular\obj\Debug\Encapsular.pdb

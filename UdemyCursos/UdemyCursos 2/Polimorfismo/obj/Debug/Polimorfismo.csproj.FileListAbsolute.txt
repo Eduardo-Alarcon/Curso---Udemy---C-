@@ -1,0 +1,7 @@
+C:\Users\Eduardo\Documents\UdemyCursos\UdemyCursos 2\Polimorfismo\obj\Debug\Polimorfismo.csproj.AssemblyReference.cache
+C:\Users\Eduardo\Documents\UdemyCursos\UdemyCursos 2\Polimorfismo\obj\Debug\Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Documents\UdemyCursos\UdemyCursos 2\Polimorfismo\bin\Debug\Polimorfismo.exe.config
+C:\Users\Eduardo\Documents\UdemyCursos\UdemyCursos 2\Polimorfismo\bin\Debug\Polimorfismo.exe
+C:\Users\Eduardo\Documents\UdemyCursos\UdemyCursos 2\Polimorfismo\bin\Debug\Polimorfismo.pdb
+C:\Users\Eduardo\Documents\UdemyCursos\UdemyCursos 2\Polimorfismo\obj\Debug\Polimorfismo.exe
+C:\Users\Eduardo\Documents\UdemyCursos\UdemyCursos 2\Polimorfismo\obj\Debug\Polimorfismo.pdb

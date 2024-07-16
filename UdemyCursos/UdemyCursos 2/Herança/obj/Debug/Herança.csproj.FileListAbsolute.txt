@@ -1,0 +1,7 @@
+C:\Users\Eduardo\Documents\UdemyCursos\UdemyCursos 2\Herança\obj\Debug\Herança.csproj.AssemblyReference.cache
+C:\Users\Eduardo\Documents\UdemyCursos\UdemyCursos 2\Herança\obj\Debug\Herança.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Documents\UdemyCursos\UdemyCursos 2\Herança\bin\Debug\Herança.exe.config
+C:\Users\Eduardo\Documents\UdemyCursos\UdemyCursos 2\Herança\bin\Debug\Herança.exe
+C:\Users\Eduardo\Documents\UdemyCursos\UdemyCursos 2\Herança\bin\Debug\Herança.pdb
+C:\Users\Eduardo\Documents\UdemyCursos\UdemyCursos 2\Herança\obj\Debug\Herança.exe
+C:\Users\Eduardo\Documents\UdemyCursos\UdemyCursos 2\Herança\obj\Debug\Herança.pdb

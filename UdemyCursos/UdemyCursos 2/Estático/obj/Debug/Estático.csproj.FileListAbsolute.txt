@@ -1,0 +1,7 @@
+C:\Users\Eduardo\Documents\UdemyCursos\UdemyCursos 2\Estático\bin\Debug\Estático.exe.config
+C:\Users\Eduardo\Documents\UdemyCursos\UdemyCursos 2\Estático\bin\Debug\Estático.exe
+C:\Users\Eduardo\Documents\UdemyCursos\UdemyCursos 2\Estático\bin\Debug\Estático.pdb
+C:\Users\Eduardo\Documents\UdemyCursos\UdemyCursos 2\Estático\obj\Debug\Estático.csproj.AssemblyReference.cache
+C:\Users\Eduardo\Documents\UdemyCursos\UdemyCursos 2\Estático\obj\Debug\Estático.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Documents\UdemyCursos\UdemyCursos 2\Estático\obj\Debug\Estático.exe
+C:\Users\Eduardo\Documents\UdemyCursos\UdemyCursos 2\Estático\obj\Debug\Estático.pdb
